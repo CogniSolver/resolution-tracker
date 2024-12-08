@@ -165,7 +165,6 @@ li span {
         max-width: none;
         padding: 10px;
         max-height: 700px;
-        background-color: green;
     }
 
     h1 {
@@ -207,8 +206,6 @@ li span {
 
 @media (max-width: 480px) {
     #app {
-        background-color: red;
-        /* width: 90%; */
         padding: 10px;
         max-height: 700px;
     }
@@ -249,7 +246,6 @@ li span {
 
 @media (min-width: 1200px) {
     #app {
-        background-color: red;
         max-width: none;
         padding: 15px;
     }
